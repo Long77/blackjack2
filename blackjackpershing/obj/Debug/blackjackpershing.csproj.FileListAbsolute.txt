@@ -1,0 +1,6 @@
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\bin\Debug\blackjackpershing.exe.config
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\bin\Debug\blackjackpershing.exe
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\bin\Debug\blackjackpershing.pdb
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\obj\Debug\blackjackpershing.csprojResolveAssemblyReference.cache
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\obj\Debug\blackjackpershing.exe
+C:\Users\bryansory\Code\blackjackpershing\blackjackpershing\obj\Debug\blackjackpershing.pdb
